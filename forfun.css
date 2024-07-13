@@ -1,0 +1,16 @@
+h1{
+    background-color: blue;
+    color:green;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+p{
+    text-decoration:dashed ;
+    color:coral;
+}
+h2{
+    color:rgb(17, 123, 216);
+    text-align: center;
+}
